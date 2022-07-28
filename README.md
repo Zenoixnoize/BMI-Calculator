@@ -10,6 +10,10 @@ Based on your measurements, she may have told you that you wanted to be "in the 
 <img src = "Temp/57d291cadd0895c6308b46b0.jpeg">
 Sometime during your last doctor's visit, your physician probably had you hop on a scale to determine whether you were a healthy weight. After weighing and measuring you, she might have shown you a colorful body mass index chart like this one
 <br>
+<h1> How To Use 📊</h1>
+<h2>Use Now Online <a href="https://replit.com/@zenoi/BMI-Calculator">Click Here</a></h2>
+ 
+
 <h2>Project By Tharindu Liyanage<h2>
     <b><table><tr><th>Tharindu Liyanage</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/VNDz0TD/IMG-20220728-121559.jpg" width="180"</td></tr></b>
 
